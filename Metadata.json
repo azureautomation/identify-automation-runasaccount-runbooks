@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 1920,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/identify-automation-runasaccount-runbooks/master/IdentifyRunAsAccountRunbooks.ps1",
+    "DownloadCount": 100,
+    "Id": "identifyautomation-c317b11",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 21,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2023-06-13T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "",
+    "Title": "Identify RunAs Account Runbooks",
+    "UpdatedDate": "2023-06-13T00:00:00",
+    "Url": "https://github.com/azureautomation/identify-automation-runasaccount-runbooks",
+    "UserTags": "RunAsAccountMigration"
+}
